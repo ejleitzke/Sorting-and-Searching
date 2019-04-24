@@ -1,13 +1,8 @@
 /*
- * File name:		Group Project 1
- * Name:				Bryan Poulson
- * Course:			COP 2224C at Valencia College
- * Instructor:		David Stendel
  * Description:		A group project that features various menu driven functions. The functions will 
  *                  perform various
  *					operations on a data arrays.
  * Team Members:		Eric Leitzke, Yamil Rivera, Jeffrey Herbeck, Anthony Pass
- * Date:				9/29/2014
  */
 
 // Preprocessor Directives
